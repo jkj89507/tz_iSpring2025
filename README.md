@@ -32,7 +32,8 @@ GITHUB_ACCESS_TOKEN=... 		//токен пользователя, созданн�
 npm run wdio
 ```
 ### Ожидаемый результат:
-![image](https://github.com/user-attachments/assets/e7199394-cac1-4eda-8e50-911473d0e770)
+![image](https://github.com/user-attachments/assets/7ae748f2-930a-48be-9759-7ca25ed735ef)
+
 
 #### Полезные ссылки:
 - https://webdriver.io/docs/selectors
